@@ -1,0 +1,1 @@
+Move-Item -Path "C:\inetpub\wwwroot\BasicApp\*" -Destination "C:\Users\Administrator\Desktop\basicapp2\" 
